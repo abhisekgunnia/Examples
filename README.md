@@ -7,5 +7,5 @@ It can be run directly from the IDE by executing the `main` method. Or, you can 
 
 ```
 mvn clean compile
-vertx run fully-qualified-name-of-the-example -cp target/classes
+vertx run FullyQualifiedClassName -cp target/classes
 ```
