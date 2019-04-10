@@ -1,4 +1,4 @@
-== Vert.x core examples
+# Vert.x core examples
 
 Vert.x core in action.
 
